@@ -1,0 +1,5 @@
+{
+  "name": "Pro Earning App",
+  "description": "A feature-rich Telegram Mini App for earning rewards through ads, tasks, and referrals with integrated Firebase and real-time balance tracking.",
+  "requestFramePermissions": []
+}
